@@ -1,0 +1,20 @@
+h1 {
+    font-size: 4rem;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    
+}
+
+a {
+    text-decoration: none;
+}
